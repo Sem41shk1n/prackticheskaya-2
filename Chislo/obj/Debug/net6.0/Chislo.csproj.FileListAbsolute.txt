@@ -1,0 +1,15 @@
+C:\Users\ilyxa\source\repos\Chislo\Chislo\bin\Debug\net6.0\Chislo.exe
+C:\Users\ilyxa\source\repos\Chislo\Chislo\bin\Debug\net6.0\Chislo.deps.json
+C:\Users\ilyxa\source\repos\Chislo\Chislo\bin\Debug\net6.0\Chislo.runtimeconfig.json
+C:\Users\ilyxa\source\repos\Chislo\Chislo\bin\Debug\net6.0\Chislo.dll
+C:\Users\ilyxa\source\repos\Chislo\Chislo\bin\Debug\net6.0\Chislo.pdb
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.csproj.AssemblyReference.cache
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.AssemblyInfoInputs.cache
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.AssemblyInfo.cs
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.csproj.CoreCompileInputs.cache
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.dll
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\refint\Chislo.dll
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.pdb
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\Chislo.genruntimeconfig.cache
+C:\Users\ilyxa\source\repos\Chislo\Chislo\obj\Debug\net6.0\ref\Chislo.dll
